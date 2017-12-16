@@ -1,0 +1,35 @@
+.container-fluid{
+    background-color: black;
+    padding-right: 50px;
+    padding-bottom: 2px;
+    opacity: 0.9px;
+}
+.active{
+    padding-left: 100px;
+    
+}
+.dropdown{
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 300px;
+}
+.cities{
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+.navbar{
+    margin-bottom: 1px;
+    margin-top: -5px;
+    background-color: aliceblue;
+    
+    
+}
+.navbar-brand{
+    background-color: aliceblue;
+    padding-left: 50px;
+}
+.dropdown-menu{
+     padding-left: 100px;
+    
+}
